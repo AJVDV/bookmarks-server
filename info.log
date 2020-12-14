@@ -2,3 +2,6 @@
 {"message":"Description is requied","level":"error"}
 {"message":"bookmark with id 2 deleted.","level":"info"}
 {"message":"Bookmark with id 8707bc52-e9b1-4931-9c61-ee964392b4df created","level":"info"}
+{"message":"Bookmark with id 9e2133dc-8979-411e-a81e-80d1114a34e5 created","level":"info"}
+{"message":"bookmark with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
